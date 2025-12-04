@@ -1,0 +1,1 @@
+import{_ as e,c as s,o as a,j as r}from"./chunks/framework.CA8TOMHJ.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"test.md","filePath":"test.md"}'),o={name:"test.md"};function n(c,t,p,d,l,i){return a(),s("div",null,[...t[0]||(t[0]=[r("p",null,"测试",-1)])])}const f=e(o,[["render",n]]);export{_ as __pageData,f as default};
