@@ -1,0 +1,1 @@
+import{_ as p,c as e,o,ah as n}from"./chunks/framework.CA8TOMHJ.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"note/note3.md","filePath":"note/note3.md"}'),s={name:"note/note3.md"};function a(i,t,c,d,r,_){return o(),e("div",null,[...t[0]||(t[0]=[n("",16)])])}const u=p(s,[["render",a]]);export{l as __pageData,u as default};
