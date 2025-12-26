@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,ah as n}from"./chunks/framework.D-LMUdA1.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"note/utool.md","filePath":"note/utool.md"}'),s={name:"note/utool.md"};function a(i,p,l,c,d,r){return o(),t("div",null,[...p[0]||(p[0]=[n("",21)])])}const h=e(s,[["render",a]]);export{g as __pageData,h as default};
